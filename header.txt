@@ -1,3 +1,7 @@
 y
-conflict - new changes from master!
+conflict
+cvxvxcv
+cxxcv
+
+text from master - new changes from master!
 
